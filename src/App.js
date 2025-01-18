@@ -22,7 +22,8 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Calc</h1>
+      <h1>Calculator</h1>
+    <h2>cc creations</h2>
       <div className="calculator dark">
       <div className="display">{input}</div>
       <div className="buttons">
